@@ -1,2 +1,3 @@
 # 👋 Hi there! I’m **✨ @lorenaruiz01 ✨**
-## 🪐 I'm a web development student, 🛸 currently studying *HTML, CSS, and Javascript.*
+### 🪐 I'm a web development student
+### 🛸 currently studying *HTML, CSS, and Javascript.*
