@@ -3,3 +3,7 @@
 ### I’m **✨ @lorenaruiz01 ✨**
 #### 🪐 I'm a web development student
 #### 🛸 currently studying *HTML, CSS, and Javascript.*
+
+
+Check out my website!
+lorenaruiz.io
