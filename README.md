@@ -5,4 +5,4 @@
 #### 🛸 currently studying *HTML, CSS, and Javascript.*
 
 
-[Check out my website!]([www.lorenaruiz.io](https://lorenaruiz.io/))
+[Check out my website!](https://lorenaruiz.io/)
