@@ -5,4 +5,4 @@
 #### 🛸 currently studying *HTML, CSS, and Javascript.*
 
 
-[Check out my website!](https://lorenaruiz.io/){:target=" " rel="noopener"}
+[Check out my website!](https://lorenaruiz.io/){:target="blank " rel="noopener"}
